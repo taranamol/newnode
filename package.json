@@ -9,9 +9,23 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.13.2",
+    "chai": "^3.0.0",
     "express": "^4.13.1",
+    "mocha": "^2.2.5",
+    "request": "^2.58.0",
     "underscore": "^1.8.3"
   },
   "devDependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taranamol/newnode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taranamol/newnode/issues"
+  },
+  "homepage": "https://github.com/taranamol/newnode#readme",
   "description": ""
 }
